@@ -1,4 +1,4 @@
-[![MasterHead(https://www.flyingpenguins.in/blogs/wp-content/uploads/2020/08/Web-Development.jpg)]
+[![MasterHead](https://www.flyingpenguins.in/blogs/wp-content/uploads/2020/08/Web-Development.jpg)]
 <h1 align="center">Hi 👋, I'm Aditya Rajaram</h1>
 <h3 align="center">A passionate programmer from India, It’s fun to build things! Programming is rather like playing with Lego.</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
