@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/@adityarajaram2" target="blank"><img src="https://img.shields.io/twitter/follow/@adityarajaram2?logo=twitter&style=for-the-badge" alt="@adityarajaram2" /></a> </p>
 
-- 🌱 I’m currently learning **firebase database**
+- 🌱 I’m currently learning **Next js**
 
-- 💬 Ask me about **C, C++, React, SQL/NOSQL Database**
+- 💬 Ask me about **C, C++,Javascript,Next, React, SQL/NOSQL Database,Firebase**
 
 - 📫 How to reach me **aditya.rajaram13@gmail.com**
 
