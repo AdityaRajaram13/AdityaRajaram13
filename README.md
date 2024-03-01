@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next js**
 
-- 💬 Ask me about **C, C++,Javascript,Next, React, SQL/NOSQL Database,Firebase,Docker**
+- 💬 Ask me about **Javascript,Next, React, SQL/NOSQL Database,Firebase,Docker,C, C++,**
 
 - 📫 How to reach me **aditya.rajaram13@gmail.com**
 
